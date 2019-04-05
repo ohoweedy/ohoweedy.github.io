@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
 
 ## Background
@@ -108,3 +109,6 @@ Large screen:
 
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
+=======
+# Omar Howeedy's Web Visualization Dashboard (Latitude) App
+>>>>>>> 62b8e447e8ee8117232c44ecd675ee5cf0677f71
